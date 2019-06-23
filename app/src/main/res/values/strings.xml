@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Earth News</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ads_key">ca-app-pub-9851658657338441~1713506651</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="article">article</string>
+    <string name="favorite">favorite</string>
+    <string name="UserName"> User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="By">By :</string>
+    <string name="articles">Articles</string>
+    <string name="users">Users</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="todo">TODO</string>
+
+</resources>
